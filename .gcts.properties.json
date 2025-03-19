@@ -1,0 +1,14 @@
+{
+  "name": "zdev_abapdemo",
+  "version": "1.0.0",
+  "description": "ZDEV_ABAPDEMO",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/32B1D9373C571FE08194BBC1C091C5E7_0"
+  }
+}
