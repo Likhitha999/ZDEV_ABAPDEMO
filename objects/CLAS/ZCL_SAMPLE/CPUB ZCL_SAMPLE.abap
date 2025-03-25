@@ -4,3 +4,4 @@ CLASS zcl_sample DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
+    METHODS: sample.

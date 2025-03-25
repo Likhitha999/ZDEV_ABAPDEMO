@@ -19,7 +19,7 @@
   },
   {
    "name":"CLAS ZCL_SAMPLE.asx.json",
-   "fingerprint":"25B4Nxth9C68vbfskRYHwfzes81CWIGIZb7bdWgt5Gje+gPL6SGusrPrNaZ41LR/PkQnZV1zZf0ABpgszxjZbg=="
+   "fingerprint":"NajC9JaOBHzTutQuDkbVyqhajs/nxXFooH/M25/wZvRFHxyKB4DY/JsCyMzTDDi/fkT1tTn7hsuBCTQaXKNNaA=="
   },
   {
    "name":"CLSD ZCL_SAMPLE.abap",
@@ -35,12 +35,16 @@
   },
   {
    "name":"CPUB ZCL_SAMPLE.abap",
-   "fingerprint":"keeb/V0tzfc+UUgcXJNOCmEOASr5zXIYcAa9wJvtZnpcMlxqU0UyrxPeTc1PJkBeE0c+oceV+7MwCeaZ01XFcQ=="
+   "fingerprint":"OmzlVzGZ2EHEejzS5MtaOmPYNabILFrrnOjKSIsPFOaUbYUmKrgdqwPdgAUZl1NeoVuzrICb00NejTeeuTSZcQ=="
+  },
+  {
+   "name":"METH SAMPLE.abap",
+   "fingerprint":"ZcpBwUKXwCXmnFQGyiWsHuMfL1l8RMQxk8NxJow52HVKFZNN4IrCqf+57Y9zTL4pK1Qgv+djgL/EKmR8F9cflw=="
   },
   {
    "name":"REPS ZCL_SAMPLE====================CT.abap",
    "fingerprint":"UH6Of8cq8jgK6xEhM/pPO0c0SOB0+LSXQqG40GxmR1jTxW9BqmU3aBCsrNUL5FGSC2BNUuRI3dRdPkenbuMtJQ=="
   }
  ],
- "fingerprintAll":"ljsvTLtxQu37Sz6C+mitVxHffNmteyhws1k16uJbP2HDwnW1qkDJhr2AVh5k9fvLO/sXpR5O8HT+bU6NPnE1Hg=="
+ "fingerprintAll":"BTmUtQkslYvmI9EQ2INejiyuPpOHbp6e1zF8CR+zMG37aPojsA78htW1tEeEilMFj702LNr5FbyL/IpTpVAlfQ=="
 }
